@@ -1,6 +1,6 @@
 # Hi, I'm Oliver 👋
 
-**Fullstack AI Engineer** — I build AI systems that work for real humans under pressure.
+**Fullstack AI Engineer** — I build AI systems that solve real problems — not just demos.
 
 4+ years in high-stakes healthcare management taught me what software feels like when you're stressed and need it to just *work*. Now I architect AI-powered tools with that same standard.
 
@@ -31,7 +31,7 @@ Rails 8 · pgvector · OpenRouter · BigQuery · Globe.gl · ActionCable
 
 Before any bootcamp or formal training, I went deep into the AI ecosystem out of pure curiosity:
 
-- **LLM Benchmarking** — Evaluated 50+ models across Hugging Face, LMArena & OpenRouter, tracking reasoning capabilities and performance trade-offs since GPT-3.5 era
+- **LLM Benchmarking** — Evaluated 30+ models across Hugging Face, LMArena, OpenRouter & Ollama, tracking reasoning capabilities and performance trade-offs since the GPT-3.5 era
 - **Telegram Bots** — Built functional LLM-powered bots for personal workflow automation, focusing on API orchestration and conversational state management
 - **Augmented-Memory Co-Pilot** — CV + voice-driven driving assistant prototype (Google AI Studio / Gemini)
 - **ScreenSense Live** — Real-time screen AI that processes what's on your display

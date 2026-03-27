@@ -5,8 +5,8 @@
 I bridge healthcare empathy with technical depth. 4+ years optimizing high-stakes patient workflows, now architecting AI systems that actually work for stressed humans.
 
 ## 🔥 Featured Project
-**[VERITAS](https://www.veritas-intelligence.org)** – OSINT platform visualizing global narrative warfare on 3D globe  
-Rails 8 · pgvector · OpenRouter LLM Orchestration · BigQuery · Globe.gl  
+**[VERITAS](https://www.veritas-intelligence.org)** – OSINT platform visualizing global narrative warfare on an interactive 3D globe.  
+*Visualizes how global narratives shift across sources in real time, exposing framing patterns and bias.* Rails 8 · pgvector · OpenRouter LLM Orchestration · BigQuery · Globe.gl  
 [View the Code](https://github.com/olivertilke/veritas_intelligence)
 
 ## 🛠️ Tech Stack
